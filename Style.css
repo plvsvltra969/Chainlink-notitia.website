@@ -1,0 +1,28 @@
+h1 { 
+    text-align: center;
+    font-size: 44px;
+}
+
+h2 {
+    
+    text-align: center;
+}
+
+.logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.Container {
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #417BAB;
+}
+
+.bar {
+    background-color: black;
+}
+
+p { 
+font-style: italic
+}
